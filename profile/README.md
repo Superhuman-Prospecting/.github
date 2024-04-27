@@ -17,7 +17,7 @@ You can find more information about our products and services on our [website](h
 ## Fun Facts
 
 - Our team starts every day with a cup of coffee and a stand-up meeting.
-- We believe that bacon makes everything better.
-- Our favorite sales book is "To Sell Is Human" by Daniel Pink.
+- We believe that eggs makes everything better.
+- Our favorite sales book is "Trust Call" by Ryan Pereus.
 
 Thanks for visiting our repository!
